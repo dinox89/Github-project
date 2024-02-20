@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 1/21/2019 11:02:35 PM-->
+<Tiled2Unity version="1.0.12.4">
+  <AssignMaterial mesh="Stage_1_2_v2_mesh_0001" material="Prototype" />
+  <Prefab name="Stage_1_2_v2" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="1" numTilesWide="30" numTilesHigh="12" tileWidth="16" tileHeight="16" exportScale="0.0625" mapWidthInPixels="480" mapHeightInPixels="192" backgroundColor="#808080">
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Prototype" mesh="Stage_1_2_v2_mesh_0001" sortingLayerName="" sortingOrder="0" opacity="1" />
+      <GameObject name="Collision">
+        <EdgeCollider2D>
+          <Points>25,-3 25,-4 26,-4 26,-3 25,-3</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>26,-3 26,-4 27,-4 27,-3 26,-3</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>29,-3 29,-4 30,-4 30,-3 29,-3</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>29,-4 29,-5 30,-5 30,-4 29,-4</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>29,-5 29,-6 30,-6 30,-5 29,-5</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>20,-6 20,-7 21,-7 21,-6 20,-6</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>21,-6 21,-7 22,-7 22,-6 21,-6</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>22,-6 22,-7 23,-7 23,-6 22,-6</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>29,-6 29,-7 30,-7 30,-6 29,-6</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>0,-7 0,-8 1,-8 1,-7 0,-7</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>1,-7 1,-8 2,-8 2,-7 1,-7</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>2,-7 2,-8 3,-8 3,-7 2,-7</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>29,-7 29,-8 30,-8 30,-7 29,-7</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>0,-8 0,-9 1,-9 1,-8 0,-8</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>1,-8 1,-9 2,-9 2,-8 1,-8</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>2,-8 2,-9 3,-9 3,-8 2,-8</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>26,-8 26,-9 27,-9 27,-8 26,-8</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>27,-8 27,-9 28,-9 28,-8 27,-8</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>28,-8 28,-9 29,-9 29,-8 28,-8</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>29,-8 29,-9 30,-9 30,-8 29,-8</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>0,-9 0,-10 1,-10 1,-9 0,-9</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>1,-9 1,-10 2,-10 2,-9 1,-9</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>2,-9 2,-10 3,-10 3,-9 2,-9</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>3,-9 3,-10 4,-10 4,-9 3,-9</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>4,-9 4,-10 5,-10 5,-9 4,-9</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>29,-9 29,-10 30,-10 30,-9 29,-9</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>20,-10 20,-11 21,-11 21,-10 20,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>21,-10 21,-11 22,-11 22,-10 21,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>22,-10 22,-11 23,-11 23,-10 22,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>23,-10 23,-11 24,-11 24,-10 23,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>29,-10 29,-11 30,-11 30,-10 29,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>18,-10 18,-11 19,-11 19,-10 18,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>19,-10 19,-11 20,-11 20,-10 19,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>0,-10 0,-11 1,-11 1,-10 0,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>1,-10 1,-11 2,-11 2,-10 1,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>2,-10 2,-11 3,-11 3,-10 2,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>3,-10 3,-11 4,-11 4,-10 3,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>4,-10 4,-11 5,-11 5,-10 4,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>5,-10 5,-11 6,-11 6,-10 5,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>6,-10 6,-11 7,-11 7,-10 6,-10</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>20,-11 20,-12 21,-12 21,-11 20,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>21,-11 21,-12 22,-12 22,-11 21,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>22,-11 22,-12 23,-12 23,-11 22,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>23,-11 23,-12 24,-12 24,-11 23,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>24,-11 24,-12 25,-12 25,-11 24,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>25,-11 25,-12 26,-12 26,-11 25,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>26,-11 26,-12 27,-12 27,-11 26,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>27,-11 27,-12 28,-12 28,-11 27,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>28,-11 28,-12 29,-12 29,-11 28,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>29,-11 29,-12 30,-12 30,-11 29,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>10,-11 10,-12 11,-12 11,-11 10,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>11,-11 11,-12 12,-12 12,-11 11,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>15,-11 15,-12 16,-12 16,-11 15,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>16,-11 16,-12 17,-12 17,-11 16,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>17,-11 17,-12 18,-12 18,-11 17,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>18,-11 18,-12 19,-12 19,-11 18,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>19,-11 19,-12 20,-12 20,-11 19,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>0,-11 0,-12 1,-12 1,-11 0,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>1,-11 1,-12 2,-12 2,-11 1,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>2,-11 2,-12 3,-12 3,-11 2,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>3,-11 3,-12 4,-12 4,-11 3,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>4,-11 4,-12 5,-12 5,-11 4,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>5,-11 5,-12 6,-12 6,-11 5,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>6,-11 6,-12 7,-12 7,-11 6,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>7,-11 7,-12 8,-12 8,-11 7,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>8,-11 8,-12 9,-12 9,-11 8,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>9,-11 9,-12 10,-12 10,-11 9,-11</Points>
+        </EdgeCollider2D>
+      </GameObject>
+    </GameObject>
+  </Prefab>
+  <ImportMesh filename="Stage_1_2_v2_mesh_0001.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1N0YWdlXzFfMl92Ml9tZXNoXzAwMDEub2JqJw0KDQojIFZlcnRpY2VzIChDb3VudCA9IDMxNikNCnYgLTI5IC00IDANCnYgLTMwIC00IDANCnYgLTMwIC0zIDANCnYgLTI5IC0zIDANCnYgLTI2IC00IDANCnYgLTI3IC00IDANCnYgLTI3IC0zIDANCnYgLTI2IC0zIDANCnYgLTI1IC00IDANCnYgLTI2IC00IDANCnYgLTI2IC0zIDANCnYgLTI1IC0zIDANCnYgLTI5IC01IDANCnYgLTMwIC01IDANCnYgLTMwIC00IDANCnYgLTI5IC00IDANCnYgLTI5IC02IDANCnYgLTMwIC02IDANCnYgLTMwIC01IDANCnYgLTI5IC01IDANCnYgLTIwIC02IDANCnYgLTIxIC02IDANCnYgLTIxIC01IDANCnYgLTIwIC01IDANCnYgLTI5IC03IDANCnYgLTMwIC03IDANCnYgLTMwIC02IDANCnYgLTI5IC02IDANCnYgLTIyIC03IDANCnYgLTIzIC03IDANCnYgLTIzIC02IDANCnYgLTIyIC02IDANCnYgLTIxIC03IDANCnYgLTIyIC03IDANCnYgLTIyIC02IDANCnYgLTIxIC02IDANCnYgLTIwIC03IDANCnYgLTIxIC03IDANCnYgLTIxIC02IDANCnYgLTIwIC02IDANCnYgLTI5IC04IDANCnYgLTMwIC04IDANCnYgLTMwIC03IDANCnYgLTI5IC03IDANCnYgLTIgLTggMA0KdiAtMyAtOCAwDQp2IC0zIC03IDANCnYgLTIgLTcgMA0KdiAtMSAtOCAwDQp2IC0yIC04IDANCnYgLTIgLTcgMA0KdiAtMSAtNyAwDQp2IDAgLTggMA0KdiAtMSAtOCAwDQp2IC0xIC03IDANCnYgMCAtNyAwDQp2IC0yOSAtOSAwDQp2IC0zMCAtOSAwDQp2IC0zMCAtOCAwDQp2IC0yOSAtOCAwDQp2IC0yOCAtOSAwDQp2IC0yOSAtOSAwDQp2IC0yOSAtOCAwDQp2IC0yOCAtOCAwDQp2IC0yNyAtOSAwDQp2IC0yOCAtOSAwDQp2IC0yOCAtOCAwDQp2IC0yNyAtOCAwDQp2IC0yNiAtOSAwDQp2IC0yNyAtOSAwDQp2IC0yNyAtOCAwDQp2IC0yNiAtOCAwDQp2IC0xNCAtOSAwDQp2IC0xNSAtOSAwDQp2IC0xNSAtOCAwDQp2IC0xNCAtOCAwDQp2IC0xMyAtOSAwDQp2IC0xNCAtOSAwDQp2IC0xNCAtOCAwDQp2IC0xMyAtOCAwDQp2IC0xMiAtOSAwDQp2IC0xMyAtOSAwDQp2IC0xMyAtOCAwDQp2IC0xMiAtOCAwDQp2IC0yIC05IDANCnYgLTMgLTkgMA0KdiAtMyAtOCAwDQp2IC0yIC04IDANCnYgLTEgLTkgMA0KdiAtMiAtOSAwDQp2IC0yIC04IDANCnYgLTEgLTggMA0KdiAwIC05IDANCnYgLTEgLTkgMA0KdiAtMSAtOCAwDQp2IDAgLTggMA0KdiAtMjkgLTEwIDANCnYgLTMwIC0xMCAwDQp2IC0zMCAtOSAwDQp2IC0yOSAtOSAwDQp2IC0yOCAtMTAgMA0KdiAtMjkgLTEwIDANCnYgLTI5IC05IDANCnYgLTI4IC05IDANCnYgLTI3IC0xMCAwDQp2IC0yOCAtMTAgMA0KdiAtMjggLTkgMA0KdiAtMjcgLTkgMA0KdiAtMjYgLTEwIDANCnYgLTI3IC0xMCAwDQp2IC0yNyAtOSAwDQp2IC0yNiAtOSAwDQp2IC0yMCAtMTAgMA0KdiAtMjEgLTEwIDANCnYgLTIxIC05IDANCnYgLTIwIC05IDANCnYgLTQgLTEwIDANCnYgLTUgLTEwIDANCnYgLTUgLTkgMA0KdiAtNCAtOSAwDQp2IC0zIC0xMCAwDQp2IC00IC0xMCAwDQp2IC00IC05IDANCnYgLTMgLTkgMA0KdiAtMiAtMTAgMA0KdiAtMyAtMTAgMA0KdiAtMyAtOSAwDQp2IC0yIC05IDANCnYgLTEgLTEwIDANCnYgLTIgLTEwIDANCnYgLTIgLTkgMA0KdiAtMSAtOSAwDQp2IDAgLTEwIDANCnYgLTEgLTEwIDANCnYgLTEgLTkgMA0KdiAwIC05IDANCnYgLTI5IC0xMSAwDQp2IC0zMCAtMTEgMA0KdiAtMzAgLTEwIDANCnYgLTI5IC0xMCAwDQp2IC0yOCAtMTEgMA0KdiAtMjkgLTExIDANCnYgLTI5IC0xMCAwDQp2IC0yOCAtMTAgMA0KdiAtMjcgLTExIDANCnYgLTI4IC0xMSAwDQp2IC0yOCAtMTAgMA0KdiAtMjcgLTEwIDANCnYgLTI2IC0xMSAwDQp2IC0yNyAtMTEgMA0KdiAtMjcgLTEwIDANCnYgLTI2IC0xMCAwDQp2IC0yMyAtMTEgMA0KdiAtMjQgLTExIDANCnYgLTI0IC0xMCAwDQp2IC0yMyAtMTAgMA0KdiAtMjIgLTExIDANCnYgLTIzIC0xMSAwDQp2IC0yMyAtMTAgMA0KdiAtMjIgLTEwIDANCnYgLTIxIC0xMSAwDQp2IC0yMiAtMTEgMA0KdiAtMjIgLTEwIDANCnYgLTIxIC0xMCAwDQp2IC0yMCAtMTEgMA0KdiAtMjEgLTExIDANCnYgLTIxIC0xMCAwDQp2IC0yMCAtMTAgMA0KdiAtMTkgLTExIDANCnYgLTIwIC0xMSAwDQp2IC0yMCAtMTAgMA0KdiAtMTkgLTEwIDANCnYgLTE4IC0xMSAwDQp2IC0xOSAtMTEgMA0KdiAtMTkgLTEwIDANCnYgLTE4IC0xMCAwDQp2IC05IC0xMSAwDQp2IC0xMCAtMTEgMA0KdiAtMTAgLTEwIDANCnYgLTkgLTEwIDANCnYgLTYgLTExIDANCnYgLTcgLTExIDANCnYgLTcgLTEwIDANCnYgLTYgLTEwIDANCnYgLTUgLTExIDANCnYgLTYgLTExIDANCnYgLTYgLTEwIDANCnYgLTUgLTEwIDANCnYgLTQgLTExIDANCnYgLTUgLTExIDANCnYgLTUgLTEwIDANCnYgLTQgLTEwIDANCnYgLTMgLTExIDANCnYgLTQgLTExIDANCnYgLTQgLTEwIDANCnYgLTMgLTEwIDANCnYgLTIgLTExIDANCnYgLTMgLTExIDANCnYgLTMgLTEwIDANCnYgLTIgLTEwIDANCnYgLTEgLTExIDANCnYgLTIgLTExIDANCnYgLTIgLTEwIDANCnYgLTEgLTEwIDANCnYgMCAtMTEgMA0KdiAtMSAtMTEgMA0KdiAtMSAtMTAgMA0KdiAwIC0xMCAwDQp2IC0yOSAtMTIgMA0KdiAtMzAgLTEyIDANCnYgLTMwIC0xMSAwDQp2IC0yOSAtMTEgMA0KdiAtMjggLTEyIDANCnYgLTI5IC0xMiAwDQp2IC0yOSAtMTEgMA0KdiAtMjggLTExIDANCnYgLTI3IC0xMiAwDQp2IC0yOCAtMTIgMA0KdiAtMjggLTExIDANCnYgLTI3IC0xMSAwDQp2IC0yNiAtMTIgMA0KdiAtMjcgLTEyIDANCnYgLTI3IC0xMSAwDQp2IC0yNiAtMTEgMA0KdiAtMjUgLTEyIDANCnYgLTI2IC0xMiAwDQp2IC0yNiAtMTEgMA0KdiAtMjUgLTExIDANCnYgLTI0IC0xMiAwDQp2IC0yNSAtMTIgMA0KdiAtMjUgLTExIDANCnYgLTI0IC0xMSAwDQp2IC0yMyAtMTIgMA0KdiAtMjQgLTEyIDANCnYgLTI0IC0xMSAwDQp2IC0yMyAtMTEgMA0KdiAtMjIgLTEyIDANCnYgLTIzIC0xMiAwDQp2IC0yMyAtMTEgMA0KdiAtMjIgLTExIDANCnYgLTIxIC0xMiAwDQp2IC0yMiAtMTIgMA0KdiAtMjIgLTExIDANCnYgLTIxIC0xMSAwDQp2IC0yMCAtMTIgMA0KdiAtMjEgLTEyIDANCnYgLTIxIC0xMSAwDQp2IC0yMCAtMTEgMA0KdiAtMTkgLTEyIDANCnYgLTIwIC0xMiAwDQp2IC0yMCAtMTEgMA0KdiAtMTkgLTExIDANCnYgLTE4IC0xMiAwDQp2IC0xOSAtMTIgMA0KdiAtMTkgLTExIDANCnYgLTE4IC0xMSAwDQp2IC0xNyAtMTIgMA0KdiAtMTggLTEyIDANCnYgLTE4IC0xMSAwDQp2IC0xNyAtMTEgMA0KdiAtMTYgLTEyIDANCnYgLTE3IC0xMiAwDQp2IC0xNyAtMTEgMA0KdiAtMTYgLTExIDANCnYgLTE1IC0xMiAwDQp2IC0xNiAtMTIgMA0KdiAtMTYgLTExIDANCnYgLTE1IC0xMSAwDQp2IC0xMSAtMTIgMA0KdiAtMTIgLTEyIDANCnYgLTEyIC0xMSAwDQp2IC0xMSAtMTEgMA0KdiAtMTAgLTEyIDANCnYgLTExIC0xMiAwDQp2IC0xMSAtMTEgMA0KdiAtMTAgLTExIDANCnYgLTkgLTEyIDANCnYgLTEwIC0xMiAwDQp2IC0xMCAtMTEgMA0KdiAtOSAtMTEgMA0KdiAtOCAtMTIgMA0KdiAtOSAtMTIgMA0KdiAtOSAtMTEgMA0KdiAtOCAtMTEgMA0KdiAtNyAtMTIgMA0KdiAtOCAtMTIgMA0KdiAtOCAtMTEgMA0KdiAtNyAtMTEgMA0KdiAtNiAtMTIgMA0KdiAtNyAtMTIgMA0KdiAtNyAtMTEgMA0KdiAtNiAtMTEgMA0KdiAtNSAtMTIgMA0KdiAtNiAtMTIgMA0KdiAtNiAtMTEgMA0KdiAtNSAtMTEgMA0KdiAtNCAtMTIgMA0KdiAtNSAtMTIgMA0KdiAtNSAtMTEgMA0KdiAtNCAtMTEgMA0KdiAtMyAtMTIgMA0KdiAtNCAtMTIgMA0KdiAtNCAtMTEgMA0KdiAtMyAtMTEgMA0KdiAtMiAtMTIgMA0KdiAtMyAtMTIgMA0KdiAtMyAtMTEgMA0KdiAtMiAtMTEgMA0KdiAtMSAtMTIgMA0KdiAtMiAtMTIgMA0KdiAtMiAtMTEgMA0KdiAtMSAtMTEgMA0KdiAwIC0xMiAwDQp2IC0xIC0xMiAwDQp2IC0xIC0xMSAwDQp2IDAgLTExIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSAxMCkNCnZ0IDAgMA0KdnQgMC4xNjY2NjY3IDANCnZ0IDAuMTY2NjY2NyAxDQp2dCAwIDENCnZ0IDAuNjY2NjY2NyAwDQp2dCAwLjgzMzMzMzMgMA0KdnQgMC44MzMzMzMzIDENCnZ0IDAuNjY2NjY2NyAxDQp2dCAxIDANCnZ0IDEgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBTdGFnZV8xXzJfdjJfbWVzaF8wMDAxDQoNCiMgRmFjZXMNCmYgMS8xLzEgMi8yLzEgMy8zLzEgNC80LzEKZiA1LzEvMSA2LzIvMSA3LzMvMSA4LzQvMQpmIDkvMS8xIDEwLzIvMSAxMS8zLzEgMTIvNC8xCmYgMTMvMS8xIDE0LzIvMSAxNS8zLzEgMTYvNC8xCmYgMTcvMS8xIDE4LzIvMSAxOS8zLzEgMjAvNC8xCmYgMjEvNS8xIDIyLzYvMSAyMy83LzEgMjQvOC8xCmYgMjUvMS8xIDI2LzIvMSAyNy8zLzEgMjgvNC8xCmYgMjkvMS8xIDMwLzIvMSAzMS8zLzEgMzIvNC8xCmYgMzMvMS8xIDM0LzIvMSAzNS8zLzEgMzYvNC8xCmYgMzcvMS8xIDM4LzIvMSAzOS8zLzEgNDAvNC8xCmYgNDEvMS8xIDQyLzIvMSA0My8zLzEgNDQvNC8xCmYgNDUvMS8xIDQ2LzIvMSA0Ny8zLzEgNDgvNC8xCmYgNDkvMS8xIDUwLzIvMSA1MS8zLzEgNTIvNC8xCmYgNTMvMS8xIDU0LzIvMSA1NS8zLzEgNTYvNC8xCmYgNTcvMS8xIDU4LzIvMSA1OS8zLzEgNjAvNC8xCmYgNjEvMS8xIDYyLzIvMSA2My8zLzEgNjQvNC8xCmYgNjUvMS8xIDY2LzIvMSA2Ny8zLzEgNjgvNC8xCmYgNjkvMS8xIDcwLzIvMSA3MS8zLzEgNzIvNC8xCmYgNzMvNi8xIDc0LzkvMSA3NS8xMC8xIDc2LzcvMQpmIDc3LzYvMSA3OC85LzEgNzkvMTAvMSA4MC83LzEKZiA4MS82LzEgODIvOS8xIDgzLzEwLzEgODQvNy8xCmYgODUvMS8xIDg2LzIvMSA4Ny8zLzEgODgvNC8xCmYgODkvMS8xIDkwLzIvMSA5MS8zLzEgOTIvNC8xCmYgOTMvMS8xIDk0LzIvMSA5NS8zLzEgOTYvNC8xCmYgOTcvMS8xIDk4LzIvMSA5OS8zLzEgMTAwLzQvMQpmIDEwMS82LzEgMTAyLzkvMSAxMDMvMTAvMSAxMDQvNy8xCmYgMTA1LzYvMSAxMDYvOS8xIDEwNy8xMC8xIDEwOC83LzEKZiAxMDkvNi8xIDExMC85LzEgMTExLzEwLzEgMTEyLzcvMQpmIDExMy81LzEgMTE0LzYvMSAxMTUvNy8xIDExNi84LzEKZiAxMTcvMS8xIDExOC8yLzEgMTE5LzMvMSAxMjAvNC8xCmYgMTIxLzEvMSAxMjIvMi8xIDEyMy8zLzEgMTI0LzQvMQpmIDEyNS8xLzEgMTI2LzIvMSAxMjcvMy8xIDEyOC80LzEKZiAxMjkvMS8xIDEzMC8yLzEgMTMxLzMvMSAxMzIvNC8xCmYgMTMzLzEvMSAxMzQvMi8xIDEzNS8zLzEgMTM2LzQvMQpmIDEzNy8xLzEgMTM4LzIvMSAxMzkvMy8xIDE0MC80LzEKZiAxNDEvNi8xIDE0Mi85LzEgMTQzLzEwLzEgMTQ0LzcvMQpmIDE0NS82LzEgMTQ2LzkvMSAxNDcvMTAvMSAxNDgvNy8xCmYgMTQ5LzYvMSAxNTAvOS8xIDE1MS8xMC8xIDE1Mi83LzEKZiAxNTMvMS8xIDE1NC8yLzEgMTU1LzMvMSAxNTYvNC8xCmYgMTU3LzEvMSAxNTgvMi8xIDE1OS8zLzEgMTYwLzQvMQpmIDE2MS8xLzEgMTYyLzIvMSAxNjMvMy8xIDE2NC80LzEKZiAxNjUvMS8xIDE2Ni8yLzEgMTY3LzMvMSAxNjgvNC8xCmYgMTY5LzEvMSAxNzAvMi8xIDE3MS8zLzEgMTcyLzQvMQpmIDE3My8xLzEgMTc0LzIvMSAxNzUvMy8xIDE3Ni80LzEKZiAxNzcvNS8xIDE3OC82LzEgMTc5LzcvMSAxODAvOC8xCmYgMTgxLzEvMSAxODIvMi8xIDE4My8zLzEgMTg0LzQvMQpmIDE4NS8xLzEgMTg2LzIvMSAxODcvMy8xIDE4OC80LzEKZiAxODkvMS8xIDE5MC8yLzEgMTkxLzMvMSAxOTIvNC8xCmYgMTkzLzEvMSAxOTQvMi8xIDE5NS8zLzEgMTk2LzQvMQpmIDE5Ny8xLzEgMTk4LzIvMSAxOTkvMy8xIDIwMC80LzEKZiAyMDEvMS8xIDIwMi8yLzEgMjAzLzMvMSAyMDQvNC8xCmYgMjA1LzEvMSAyMDYvMi8xIDIwNy8zLzEgMjA4LzQvMQpmIDIwOS8xLzEgMjEwLzIvMSAyMTEvMy8xIDIxMi80LzEKZiAyMTMvMS8xIDIxNC8yLzEgMjE1LzMvMSAyMTYvNC8xCmYgMjE3LzEvMSAyMTgvMi8xIDIxOS8zLzEgMjIwLzQvMQpmIDIyMS8xLzEgMjIyLzIvMSAyMjMvMy8xIDIyNC80LzEKZiAyMjUvMS8xIDIyNi8yLzEgMjI3LzMvMSAyMjgvNC8xCmYgMjI5LzEvMSAyMzAvMi8xIDIzMS8zLzEgMjMyLzQvMQpmIDIzMy8xLzEgMjM0LzIvMSAyMzUvMy8xIDIzNi80LzEKZiAyMzcvMS8xIDIzOC8yLzEgMjM5LzMvMSAyNDAvNC8xCmYgMjQxLzEvMSAyNDIvMi8xIDI0My8zLzEgMjQ0LzQvMQpmIDI0NS8xLzEgMjQ2LzIvMSAyNDcvMy8xIDI0OC80LzEKZiAyNDkvMS8xIDI1MC8yLzEgMjUxLzMvMSAyNTIvNC8xCmYgMjUzLzEvMSAyNTQvMi8xIDI1NS8zLzEgMjU2LzQvMQpmIDI1Ny8xLzEgMjU4LzIvMSAyNTkvMy8xIDI2MC80LzEKZiAyNjEvMS8xIDI2Mi8yLzEgMjYzLzMvMSAyNjQvNC8xCmYgMjY1LzEvMSAyNjYvMi8xIDI2Ny8zLzEgMjY4LzQvMQpmIDI2OS8xLzEgMjcwLzIvMSAyNzEvMy8xIDI3Mi80LzEKZiAyNzMvMS8xIDI3NC8yLzEgMjc1LzMvMSAyNzYvNC8xCmYgMjc3LzEvMSAyNzgvMi8xIDI3OS8zLzEgMjgwLzQvMQpmIDI4MS8xLzEgMjgyLzIvMSAyODMvMy8xIDI4NC80LzEKZiAyODUvMS8xIDI4Ni8yLzEgMjg3LzMvMSAyODgvNC8xCmYgMjg5LzEvMSAyOTAvMi8xIDI5MS8zLzEgMjkyLzQvMQpmIDI5My8xLzEgMjk0LzIvMSAyOTUvMy8xIDI5Ni80LzEKZiAyOTcvMS8xIDI5OC8yLzEgMjk5LzMvMSAzMDAvNC8xCmYgMzAxLzEvMSAzMDIvMi8xIDMwMy8zLzEgMzA0LzQvMQpmIDMwNS8xLzEgMzA2LzIvMSAzMDcvMy8xIDMwOC80LzEKZiAzMDkvMS8xIDMxMC8yLzEgMzExLzMvMSAzMTIvNC8xCmYgMzEzLzEvMSAzMTQvMi8xIDMxNS8zLzEgMzE2LzQvMQoNCg==</ImportMesh>
+  <ImportTexture filename="Prototype.png">iVBORw0KGgoAAAANSUhEUgAAAGAAAAAQCAYAAADpunr5AAABI0lEQVR42u3YIRLCMBAF0B4CjUMhuQEWBDdAY5DcAVtVJJYbcAMMN0DjOAAqTJlpB3Y2yd9NC0nbznxRmJr/2k3TLD+eTUgO93VQsuszLI5jP546/4/iKEucL7eqVACzYqFKDVDcdHEAlOVXGQAGgH4DaBDMKjM0ousvE0PTOgAy8yGAzYkPCEDLlwJw5UsQuPKtCE0D0IJ951YA5DcBAIrwWfZjN6qDItDC39e6EJIBAEeQrXwEgN7ttHgfAlf+FyKH0CcAH0IbALYnIX4AxRrgK18LwEFox0+nnwAEwIXAAXBrwADAAKDlSwGSGkGN7QNaBkARQt+CbItw5zZi0vLRtQAdPT6En+0DUgKQLshJ7IT/AaAtP5pvRKl/jg4BiAHhBcoN+j+M4NomAAAAAElFTkSuQmCC</ImportTexture>
+</Tiled2Unity>

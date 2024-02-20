@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coins
+  - Fraise
+  - Pomme
+  - Melon
+  - Cherry
+  - Coin
+  - ours
+  - Ennemy
+  - Minerais
+  - Champigon
+  - Wall
+  - PIKS
+  - Door
+  - Collectible
+  - CHEST
+  - Background
+  - OneWayPlatform
+  - Fireball
+  - DOOR
+  - Pivot
+  - Or
+  - BOMBE
+  - Tower
+  - Flower
+  - MovingPlatform
+  - TRAMP
+  - Ladder
+  - W
+  - bird
+  - RES
+  - CheckpointManager
+  - DEB
+  - BOX
+  - Far
+  - Tre
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Chest
+  - Obstacle
+  - Ground
+  - Wall
+  - Player
+  - Ennemy
+  - Ours
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2280613859
+    locked: 0
+  - name: Foreground
+    uniqueID: 1997725013
+    locked: 0
+  - name: Player
+    uniqueID: 1974238327
+    locked: 0
+  - name: Ground
+    uniqueID: 899906589
+    locked: 0
+  - name: UI
+    uniqueID: 3518601635
+    locked: 0

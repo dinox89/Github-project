@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Tiled2Unity generated xml data-->
+<!--Do not modify by hand-->
+<!--Last exported: 1/17/2019 11:38:38 PM-->
+<Tiled2Unity version="1.0.12.4">
+  <AssignMaterial mesh="Stage_1_12_mesh_0001" material="Prototype" />
+  <Prefab name="Stage_1_12" orientation="Orthogonal" staggerAxis="Y" staggerIndex="Odd" hexSideLength="0" numLayers="1" numTilesWide="20" numTilesHigh="12" tileWidth="16" tileHeight="16" exportScale="0.0625" mapWidthInPixels="320" mapHeightInPixels="192" backgroundColor="#808080">
+    <GameObject name="Tile Layer 1" x="0" y="0" z="0">
+      <TileLayer offsetX="0" offsetY="0" />
+      <GameObject name="Prototype" mesh="Stage_1_12_mesh_0001" sortingLayerName="" sortingOrder="0" opacity="1" />
+      <GameObject name="Collision">
+        <EdgeCollider2D>
+          <Points>10,-11 10,-12 11,-12 11,-11 10,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>14,-11 14,-12 15,-12 15,-11 14,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>15,-11 15,-12 16,-12 16,-11 15,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>16,-11 16,-12 17,-12 17,-11 16,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>17,-11 17,-12 18,-12 18,-11 17,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>18,-11 18,-12 19,-12 19,-11 18,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>19,-11 19,-12 20,-12 20,-11 19,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>0,-11 0,-12 1,-12 1,-11 0,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>1,-11 1,-12 2,-12 2,-11 1,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>2,-11 2,-12 3,-12 3,-11 2,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>6,-11 6,-12 7,-12 7,-11 6,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>7,-11 7,-12 8,-12 8,-11 7,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>8,-11 8,-12 9,-12 9,-11 8,-11</Points>
+        </EdgeCollider2D>
+        <EdgeCollider2D>
+          <Points>9,-11 9,-12 10,-12 10,-11 9,-11</Points>
+        </EdgeCollider2D>
+      </GameObject>
+    </GameObject>
+  </Prefab>
+  <ImportMesh filename="Stage_1_12_mesh_0001.obj">IyBUaWxlZDJVbml0eSBnZW5lcmF0ZWQgZmlsZS4gRG8gbm90IG1vZGlmeSBieSBoYW5kLg0KIyBXYXZlZnJvbnQgZmlsZSBmb3IgJ1N0YWdlXzFfMTJfbWVzaF8wMDAxLm9iaicNCg0KIyBWZXJ0aWNlcyAoQ291bnQgPSA2OCkNCnYgLTEyIC05IDANCnYgLTEzIC05IDANCnYgLTEzIC04IDANCnYgLTEyIC04IDANCnYgLTQgLTkgMA0KdiAtNSAtOSAwDQp2IC01IC04IDANCnYgLTQgLTggMA0KdiAtOCAtMTEgMA0KdiAtOSAtMTEgMA0KdiAtOSAtMTAgMA0KdiAtOCAtMTAgMA0KdiAtMTkgLTEyIDANCnYgLTIwIC0xMiAwDQp2IC0yMCAtMTEgMA0KdiAtMTkgLTExIDANCnYgLTE4IC0xMiAwDQp2IC0xOSAtMTIgMA0KdiAtMTkgLTExIDANCnYgLTE4IC0xMSAwDQp2IC0xNyAtMTIgMA0KdiAtMTggLTEyIDANCnYgLTE4IC0xMSAwDQp2IC0xNyAtMTEgMA0KdiAtMTYgLTEyIDANCnYgLTE3IC0xMiAwDQp2IC0xNyAtMTEgMA0KdiAtMTYgLTExIDANCnYgLTE1IC0xMiAwDQp2IC0xNiAtMTIgMA0KdiAtMTYgLTExIDANCnYgLTE1IC0xMSAwDQp2IC0xNCAtMTIgMA0KdiAtMTUgLTEyIDANCnYgLTE1IC0xMSAwDQp2IC0xNCAtMTEgMA0KdiAtMTAgLTEyIDANCnYgLTExIC0xMiAwDQp2IC0xMSAtMTEgMA0KdiAtMTAgLTExIDANCnYgLTkgLTEyIDANCnYgLTEwIC0xMiAwDQp2IC0xMCAtMTEgMA0KdiAtOSAtMTEgMA0KdiAtOCAtMTIgMA0KdiAtOSAtMTIgMA0KdiAtOSAtMTEgMA0KdiAtOCAtMTEgMA0KdiAtNyAtMTIgMA0KdiAtOCAtMTIgMA0KdiAtOCAtMTEgMA0KdiAtNyAtMTEgMA0KdiAtNiAtMTIgMA0KdiAtNyAtMTIgMA0KdiAtNyAtMTEgMA0KdiAtNiAtMTEgMA0KdiAtMiAtMTIgMA0KdiAtMyAtMTIgMA0KdiAtMyAtMTEgMA0KdiAtMiAtMTEgMA0KdiAtMSAtMTIgMA0KdiAtMiAtMTIgMA0KdiAtMiAtMTEgMA0KdiAtMSAtMTEgMA0KdiAwIC0xMiAwDQp2IC0xIC0xMiAwDQp2IC0xIC0xMSAwDQp2IDAgLTExIDANCg0KIyBUZXh0dXJlIGNvb3JpZGluYXRlcyAoQ291bnQgPSAxMCkNCnZ0IDAuODMzMzMzMyAwDQp2dCAxIDANCnZ0IDEgMQ0KdnQgMC44MzMzMzMzIDENCnZ0IDAuNjY2NjY2NyAwDQp2dCAwLjY2NjY2NjcgMQ0KdnQgMCAwDQp2dCAwLjE2NjY2NjcgMA0KdnQgMC4xNjY2NjY3IDENCnZ0IDAgMQ0KDQojIE5vcm1hbA0Kdm4gMCAwIC0xDQoNCiMgTWVzaCBkZXNjcmlwdGlvbg0KZyBTdGFnZV8xXzEyX21lc2hfMDAwMQ0KDQojIEZhY2VzDQpmIDEvMS8xIDIvMi8xIDMvMy8xIDQvNC8xCmYgNS8xLzEgNi8yLzEgNy8zLzEgOC80LzEKZiA5LzUvMSAxMC8xLzEgMTEvNC8xIDEyLzYvMQpmIDEzLzcvMSAxNC84LzEgMTUvOS8xIDE2LzEwLzEKZiAxNy83LzEgMTgvOC8xIDE5LzkvMSAyMC8xMC8xCmYgMjEvNy8xIDIyLzgvMSAyMy85LzEgMjQvMTAvMQpmIDI1LzcvMSAyNi84LzEgMjcvOS8xIDI4LzEwLzEKZiAyOS83LzEgMzAvOC8xIDMxLzkvMSAzMi8xMC8xCmYgMzMvNy8xIDM0LzgvMSAzNS85LzEgMzYvMTAvMQpmIDM3LzcvMSAzOC84LzEgMzkvOS8xIDQwLzEwLzEKZiA0MS83LzEgNDIvOC8xIDQzLzkvMSA0NC8xMC8xCmYgNDUvNy8xIDQ2LzgvMSA0Ny85LzEgNDgvMTAvMQpmIDQ5LzcvMSA1MC84LzEgNTEvOS8xIDUyLzEwLzEKZiA1My83LzEgNTQvOC8xIDU1LzkvMSA1Ni8xMC8xCmYgNTcvNy8xIDU4LzgvMSA1OS85LzEgNjAvMTAvMQpmIDYxLzcvMSA2Mi84LzEgNjMvOS8xIDY0LzEwLzEKZiA2NS83LzEgNjYvOC8xIDY3LzkvMSA2OC8xMC8xCg0K</ImportMesh>
+  <ImportTexture filename="Prototype.png">iVBORw0KGgoAAAANSUhEUgAAAGAAAAAQCAYAAADpunr5AAABI0lEQVR42u3YIRLCMBAF0B4CjUMhuQEWBDdAY5DcAVtVJJYbcAMMN0DjOAAqTJlpB3Y2yd9NC0nbznxRmJr/2k3TLD+eTUgO93VQsuszLI5jP546/4/iKEucL7eqVACzYqFKDVDcdHEAlOVXGQAGgH4DaBDMKjM0ousvE0PTOgAy8yGAzYkPCEDLlwJw5UsQuPKtCE0D0IJ951YA5DcBAIrwWfZjN6qDItDC39e6EJIBAEeQrXwEgN7ttHgfAlf+FyKH0CcAH0IbALYnIX4AxRrgK18LwEFox0+nnwAEwIXAAXBrwADAAKDlSwGSGkGN7QNaBkARQt+CbItw5zZi0vLRtQAdPT6En+0DUgKQLshJ7IT/AaAtP5pvRKl/jg4BiAHhBcoN+j+M4NomAAAAAElFTkSuQmCC</ImportTexture>
+</Tiled2Unity>
