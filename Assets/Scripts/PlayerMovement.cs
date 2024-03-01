@@ -70,6 +70,8 @@ public class PlayerMovement : MonoBehaviour
     public static Vector2 lastCheckpointposition = new Vector2(17.31f, -7.71f);
     public static Vector2 lastDEB = new Vector2(17.31f, -7.71f);
     public static Vector2 lastDEBLEVEL2 = new Vector2(17.31f, -7.71f);
+    public static Vector2 lastDEBLEVEL3 = new Vector2(17.31f, -7.71f);
+
 
 
 
